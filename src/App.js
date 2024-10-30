@@ -8,6 +8,7 @@ function App() {
       <Days/>
       <Tasks/>
       <h1>Collaboration example</h1>
+      <h2>Another test</h2>
 
       
     </div>
