@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Days/>
       <Tasks/>
+      <h1>Collaboration example</h1>
 
       
     </div>
